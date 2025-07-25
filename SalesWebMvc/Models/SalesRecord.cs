@@ -22,7 +22,7 @@ public class SalesRecord
         Status = status;
         Seller = seller;
     }
-
     
+
 }
 
