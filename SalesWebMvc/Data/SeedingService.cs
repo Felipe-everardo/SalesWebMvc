@@ -23,9 +23,6 @@ public class SeedingService
         Department d2 = new Department(2, "Eletronics");
         Department d3 = new Department(3, "Fashion");
         Department d4 = new Department(4, "Books");
-        // Department dx = new Department {Id = 5, Name = "exemplo"}
-
-
 
         Seller s1 = new Seller(1, "Bob Brown", "bob@gmail.com", new DateTime(1998, 4, 21), 1000.0, d1);
         Seller s2 = new Seller(2, "Maria Green", "maria@gmail.com", new DateTime(1979, 12, 31), 3500.0, d2);
